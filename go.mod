@@ -1,4 +1,4 @@
-module github.com/lithdew/quickjs
+module github.com/abdfnx/renio-quickjs
 
 go 1.14
 
