@@ -1,4 +1,4 @@
-module github.com/abdfnx/renio-quickjs
+module github.com/abdfnx/qjs
 
 go 1.14
 
